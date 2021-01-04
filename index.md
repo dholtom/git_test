@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Silk
 
 You can use the [editor on GitHub](https://github.com/dholtom/git_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
